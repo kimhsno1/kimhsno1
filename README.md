@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   
 ### 내가 했던 프로젝트 👀
   - [We All Lie - 보드게임 '스파이 폴'을 모티브로 한 비대면 보드게임 서비스](https://github.com/tastekim/WeAllLie-BE)
+  - [ASOPI - " 내 아이의 소중한 피부 " 소아 피부 질환 AI 진단 분석 서비스](https://github.com/kimhsno1/ASOPI)
 
 #### About ME 😁
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://kimhsno1.tistory.com/)
